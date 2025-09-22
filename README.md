@@ -75,23 +75,43 @@ You can view it directly here on GitHub without downloading anything.
 Try solving these small challenges using what you’ve learned so far.  
 Click any file to see the problem description or solution.  
 
-- [helloWorldMod.cpp](Practice-Problems/01-helloWorldMod.cpp) – Ask the user for their name and print a hello world message  
-- [commentsPractice.cpp](Practice-Problems/02-commentsPractice.cpp) – Add comments to a program that prints a message  
-- [dataTypesExplore.cpp](Practice-Problems/03-dataTypesExplore.cpp) – Work with different data types (int, float, etc.)  
-- [variableSwap.cpp](Practice-Problems/04-variableSwap.cpp) – Swap the values of two variables  
-- [arithmeticCalc.cpp](Practice-Problems/05-arithmeticCalc.cpp) – Perform basic arithmetic operations on two numbers  
-- [escapeSequencePractice.cpp](Practice-Problems/06-escapeSequencePractice.cpp) – Use escape sequences to format output  
-- [formattedOutput.cpp](Practice-Problems/07-formattedOutput.cpp) – Format output neatly with variables  
-- [gradeChecker.cpp](Practice-Problems/08-gradeChecker.cpp) – Determine a letter grade from a score  
-- [dayOfWeek.cpp](Practice-Problems/09-dayOfWeek.cpp) – Print the day of the week using a switch statement  
-- [countEvenNumbers.cpp](Practice-Problems/10-countEvenNumbers.cpp) – Print even numbers using a loop  
-- [sumUntilZero.cpp](Practice-Problems/11-sumUntilZero.cpp) – Sum numbers until zero is entered  
-- [guessNumber.cpp](Practice-Problems/12-guessNumber.cpp) – Create a simple number guessing game  
-- [rectangleArea.cpp](Practice-Problems/13-rectangleArea.cpp) – Calculate the area of a rectangle using a function  
-- [maxOfThree.cpp](Practice-Problems/14-maxOfThree.cpp) – Find the largest of three numbers using a function  
-- [stringReverse.cpp](Practice-Problems/15-stringReverse.cpp) – Reverse a string using a loop  
-- [arraySum.cpp](Practice-Problems/16-arraySum.cpp) – Sum the elements of an array  
-- [arrayMinMax.cpp](Practice-Problems/17-arrayMinMax.cpp) – Find the smallest and largest values in an array
+- [01-helloWorldMod.cpp](Practice-Problems/01-helloWorldMod.cpp) – Ask the user for their name and print a hello world message  
+- [02-commentsPractice.cpp](Practice-Problems/02-commentsPractice.cpp) – Add comments to a program that prints a message  
+- [03-dataTypesExplore.cpp](Practice-Problems/03-dataTypesExplore.cpp) – Work with different data types (int, float, etc.)  
+- [04-variableSwap.cpp](Practice-Problems/04-variableSwap.cpp) – Swap the values of two variables  
+- [05-arithmeticCalc.cpp](Practice-Problems/05-arithmeticCalc.cpp) – Perform basic arithmetic operations on two numbers  
+- [06-escapeSequencePractice.cpp](Practice-Problems/06-escapeSequencePractice.cpp) – Use escape sequences to format output  
+- [07-formattedOutput.cpp](Practice-Problems/07-formattedOutput.cpp) – Format output neatly with variables  
+- [08-gradeChecker.cpp](Practice-Problems/08-gradeChecker.cpp) – Determine a letter grade from a score  
+- [09-dayOfWeek.cpp](Practice-Problems/09-dayOfWeek.cpp) – Print the day of the week using a switch statement  
+- [10-countEvenNumbers.cpp](Practice-Problems/10-countEvenNumbers.cpp) – Print even numbers using a loop  
+- [11-sumUntilZero.cpp](Practice-Problems/11-sumUntilZero.cpp) – Sum numbers until zero is entered  
+- [12-guessNumber.cpp](Practice-Problems/12-guessNumber.cpp) – Create a simple number guessing game  
+- [13-rectangleArea.cpp](Practice-Problems/13-rectangleArea.cpp) – Calculate the area of a rectangle using a function  
+- [14-maxOfThree.cpp](Practice-Problems/14-maxOfThree.cpp) – Find the largest of three numbers using a function  
+- [15-stringReverse.cpp](Practice-Problems/15-stringReverse.cpp) – Reverse a string using a loop  
+- [16-arraySum.cpp](Practice-Problems/16-arraySum.cpp) – Sum the elements of an array  
+- [17-arrayMinMax.cpp](Practice-Problems/17-arrayMinMax.cpp) – Find the smallest and largest values in an array  
+- [18-PrimeNumberCheck.cpp](Practice-Problems/18-PrimeNumberCheck.cpp) – Check if a number is prime using loops  
+- [19-PalindromeString.cpp](Practice-Problems/19-PalindromeString.cpp) – Check if a string is a palindrome  
+- [20-FibonacciSequence.cpp](Practice-Problems/20-FibonacciSequence.cpp) – Generate Fibonacci numbers up to a limit  
+- [21-GCDCalculator.cpp](Practice-Problems/21-GCDCalculator.cpp) – Find the GCD of two numbers using a loop  
+- [22-NumberPattern.cpp](Practice-Problems/22-NumberPattern.cpp) – Print a number pattern using nested loops  
+- [23-StringVowelCount.cpp](Practice-Problems/23-StringVowelCount.cpp) – Count vowels in a string  
+- [24-AveragePositiveNumbers.cpp](Practice-Problems/24-AveragePositiveNumbers.cpp) – Calculate average of positive numbers  
+- [25-MultiplesInRange.cpp](Practice-Problems/25-MultiplesInRange.cpp) – Print multiples of a number in a range  
+- [26-ReverseArray.cpp](Practice-Problems/26-ReverseArray.cpp) – Reverse an array in-place  
+- [27-DigitSum.cpp](Practice-Problems/27-DigitSum.cpp) – Sum the digits of a number  
+- [28-TriangleValidator.cpp](Practice-Problems/28-TriangleValidator.cpp) – Check if three sides form a valid triangle  
+- [29-CountOccurrences.cpp](Practice-Problems/29-CountOccurrences.cpp) – Count occurrences of a character in a string  
+- [30-FactorialRange.cpp](Practice-Problems/30-FactorialRange.cpp) – Print factorials within a range  
+- [31-PerfectNumber.cpp](Practice-Problems/31-PerfectNumber.cpp) – Check if a number is perfect  
+- [32-StringCaseToggle.cpp](Practice-Problems/32-StringCaseToggle.cpp) – Toggle case of characters in a string  
+- [33-ArrayRotation.cpp](Practice-Problems/33-ArrayRotation.cpp) – Rotate an array by k positions  
+- [34-PrimeFactors.cpp](Practice-Problems/34-PrimeFactors.cpp) – Find prime factors of a number  
+- [35-BinaryConverter.cpp](Practice-Problems/35-BinaryConverter.cpp) – Convert a number to binary  
+- [36-MatrixDiagonalSum.cpp](Practice-Problems/36-MatrixDiagonalSum.cpp) – Sum the diagonals of a square matrix  
+- [37-LongestWord.cpp](Practice-Problems/37-LongestWord.cpp) – Find the longest word in a sentence  
 
 ✉️ **Want your code checked or reviewed?**  
 Feel free to reach out to **CIPHER's Research & Development Head** on **Messenger**!  
